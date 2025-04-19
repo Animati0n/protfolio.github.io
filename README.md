@@ -1,2 +1,2 @@
 # Animati0n.github.io
-My profile upadted
+My profile updated
