@@ -1,0 +1,3 @@
+[submodule "blogs"]
+	path = blogs
+	url = git@personal.com:Animati0n/blogs.git
